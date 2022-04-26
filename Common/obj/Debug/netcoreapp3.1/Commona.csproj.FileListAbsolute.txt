@@ -1,0 +1,27 @@
+C:\Users\Hananta\source\repos\GRAFKOMPERT7CAMERA\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+C:\Users\Hananta\source\repos\GRAFKOMPERT7CAMERA\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\Hananta\source\repos\GRAFKOMPERT7CAMERA\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\Hananta\source\repos\GRAFKOMPERT7CAMERA\Common\obj\Debug\netcoreapp3.1\Commona.csprojAssemblyReference.cache
+C:\Users\Hananta\source\repos\GRAFKOMPERT7CAMERA\Common\obj\Debug\netcoreapp3.1\Commona.AssemblyInfoInputs.cache
+C:\Users\Hananta\source\repos\GRAFKOMPERT7CAMERA\Common\obj\Debug\netcoreapp3.1\Commona.AssemblyInfo.cs
+C:\Users\Hananta\source\repos\GRAFKOMPERT7CAMERA\Common\obj\Debug\netcoreapp3.1\Commona.csproj.CoreCompileInputs.cache
+C:\Users\Hananta\source\repos\GRAFKOMPERT7CAMERA\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\Hananta\source\repos\GRAFKOMPERT7CAMERA\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\Charlton Gilbert\Desktop\Tugas Infor\Grafkom\GRAFKOMPERT7CAMERA\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+C:\Users\Charlton Gilbert\Desktop\Tugas Infor\Grafkom\GRAFKOMPERT7CAMERA\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\Charlton Gilbert\Desktop\Tugas Infor\Grafkom\GRAFKOMPERT7CAMERA\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\Charlton Gilbert\Desktop\Tugas Infor\Grafkom\GRAFKOMPERT7CAMERA\Common\obj\Debug\netcoreapp3.1\Commona.csprojAssemblyReference.cache
+C:\Users\Charlton Gilbert\Desktop\Tugas Infor\Grafkom\GRAFKOMPERT7CAMERA\Common\obj\Debug\netcoreapp3.1\Commona.AssemblyInfoInputs.cache
+C:\Users\Charlton Gilbert\Desktop\Tugas Infor\Grafkom\GRAFKOMPERT7CAMERA\Common\obj\Debug\netcoreapp3.1\Commona.AssemblyInfo.cs
+C:\Users\Charlton Gilbert\Desktop\Tugas Infor\Grafkom\GRAFKOMPERT7CAMERA\Common\obj\Debug\netcoreapp3.1\Commona.csproj.CoreCompileInputs.cache
+C:\Users\Charlton Gilbert\Desktop\Tugas Infor\Grafkom\GRAFKOMPERT7CAMERA\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\Charlton Gilbert\Desktop\Tugas Infor\Grafkom\GRAFKOMPERT7CAMERA\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\Charlton Gilbert\Desktop\Tugas Infor\Grafkom\ProjekUAS\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+C:\Users\Charlton Gilbert\Desktop\Tugas Infor\Grafkom\ProjekUAS\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\Charlton Gilbert\Desktop\Tugas Infor\Grafkom\ProjekUAS\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\Charlton Gilbert\Desktop\Tugas Infor\Grafkom\ProjekUAS\Common\obj\Debug\netcoreapp3.1\Commona.csprojAssemblyReference.cache
+C:\Users\Charlton Gilbert\Desktop\Tugas Infor\Grafkom\ProjekUAS\Common\obj\Debug\netcoreapp3.1\Commona.AssemblyInfoInputs.cache
+C:\Users\Charlton Gilbert\Desktop\Tugas Infor\Grafkom\ProjekUAS\Common\obj\Debug\netcoreapp3.1\Commona.AssemblyInfo.cs
+C:\Users\Charlton Gilbert\Desktop\Tugas Infor\Grafkom\ProjekUAS\Common\obj\Debug\netcoreapp3.1\Commona.csproj.CoreCompileInputs.cache
+C:\Users\Charlton Gilbert\Desktop\Tugas Infor\Grafkom\ProjekUAS\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\Charlton Gilbert\Desktop\Tugas Infor\Grafkom\ProjekUAS\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
